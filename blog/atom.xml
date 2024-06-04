@@ -6,7 +6,6 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/DigitalTrustExperience/blog"/>
     <subtitle>Digital Trust Experience Blog</subtitle>
-    <icon>https://github.com/DigitalTrustExperience/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://github.com/DigitalTrustExperience/blog/welcome</id>
