@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Digital Trust Experience',
   tagline: '',
-  favicon: 'img/favicon.ico',
+  //favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -91,7 +91,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Experience Patterns',
             items: [
               {
                 label: 'Tutorial',
@@ -106,14 +106,14 @@ const config = {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              //{
+               //label: 'Discord',
+               //href: 'https://discordapp.com/invite/docusaurus',
+              //},
+              //{
+                //label: 'Twitter',
+                //href: 'https://twitter.com/docusaurus',
+              //},
             ],
           },
           {
@@ -123,14 +123,14 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              //{
+                //label: 'GitHub',
+                //href: 'https://github.com/facebook/docusaurus',
+              //},
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      //  copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
